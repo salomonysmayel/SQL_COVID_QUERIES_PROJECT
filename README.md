@@ -10,6 +10,10 @@ Data source: https://ourworldindata.org/coronavirus
 
 Two tables were used for this project, the covid_deaths table with 25 columns (location, date, new_deaths,...) and the covid_vaccinations table with 38 columns (location, date, new_vaccinations,...). each table contains 95963 records. The tables include all countries and daily data as time series from 2/24/2020 to 7/6/2021. The queries on this project were used to create visualizations with Tableau.
 
+first rows and columns of the original table
+
+![supply_chain](/images_covid_project/cinco.png)
+
 
 
 
