@@ -5,5 +5,6 @@ COVID-19 data is taken to perform SQL queries to showcase the use and implementa
 To view queries created, explore the script file included in this repository.
 
 The data: Coronavirus (COVID-19)
+
 Data source: https://ourworldindata.org/coronavirus
 
