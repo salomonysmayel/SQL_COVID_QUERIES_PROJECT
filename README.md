@@ -14,6 +14,16 @@ first rows and columns of the original table
 
 ![supply_chain](/images_sql_project/cinco.png)
 
+Some of the querie's outputs
+
+![supply_chain](/images_sql_project/uno.png)
+
+![supply_chain](/images_sql_project/dos.png)
+
+![supply_chain](/images_sql_project/tres.png)
+
+![supply_chain](/images_sql_project/cuatro.png)
+
 
 
 
