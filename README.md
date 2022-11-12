@@ -12,7 +12,7 @@ Two tables were used for this project, the covid_deaths table with 25 columns (l
 
 first rows and columns of the original table
 
-![supply_chain](/images_covid_project/cinco.png)
+![supply_chain](/images_sql_project/cinco.png)
 
 
 
